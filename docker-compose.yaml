@@ -1,6 +1,6 @@
 services:
   app:
-    container_name: jiosaavn-api
+    container_name: music-api-dreamly
     build:
       context: .
       dockerfile: Dockerfile
